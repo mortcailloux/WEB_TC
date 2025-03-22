@@ -2,7 +2,7 @@
 import { useEffect, useRef } from "react";
 import Layout from "../layout";
 import videoBg from "./stocks.mp4";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import "./home.css";
 
 export default function Home() {
